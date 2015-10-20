@@ -19,7 +19,7 @@ If any functionality appers to not be working properly please check the status o
 
 ##### What resources from the original ModelSEED are used?
 
-Behind the scenes, the steps in pipeline for model reconstruction remain the same as the original ModelSEED. Read more in the paper <a href="http://www.nature.com/nbt/journal/v28/n9/full/nbt.1672.html">here</a>.  However, changes were introduced to the gapfilling algorithm and relevant data that supports model reconstruction was updated.These changes are listed in detail in the section "<b>What has changed?</b>".
+Behind the scenes, the steps in pipeline for model reconstruction remain the same as the original ModelSEED. Read more in the paper <a href="http://www.nature.com/nbt/journal/v28/n9/full/nbt.1672.html">here</a>.  However, changes were introduced to the gapfilling algorithm and relevant data that supports model reconstruction was updated. These changes are listed in detail in the section "<b>What has changed?</b>".
 
 Addtionally, you'll notice better performance, more options, and flexibility.  
 
