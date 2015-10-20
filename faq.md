@@ -13,8 +13,11 @@ We strive to support all evergreen browsers (Chrome, Firefox, Safari and IE10+).
 ##### What has been upgraded?
 
 1. The new ModelSEED biomass works differently in that biomass equations are constant for the gram positive and gram negative templates.
-2. The mappings of roles to reactions has changed, as have the roles annotated by SEED itself
-3. The ModelSEED utilizes a new biochemistry.  Please see the [ModelSEEDDatabase](https://github.com/ModelSEED/ModelSEEDDatabase) for the latest biochemistry. [More documentation coming]
+
+2. The mappings of roles to reactions has changed, as have the roles annotated by SEED itself.
+
+3. The ModelSEED utilizes a new biochemistry.  Please see the [ModelSEEDDatabase](https://github.com/ModelSEED/ModelSEEDDatabase) for the latest biochemistry. [More documentation coming soon]
+
 4. The gapfilling algorithm has changed in that the alorithmn is now a LP (Linear Program) optimization problem, instead of a MILP (Mixed Integer Linear Program) optimization problem.  This allows for "fast" formulation.  Although it is possible to have different solutions, this is uncommon.
 
 
