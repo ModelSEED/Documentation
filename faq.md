@@ -10,8 +10,12 @@ ModelSEED is a web application for the reconstruction, exploration, comparison, 
 We strive to support all evergreen browsers (Chrome, Firefox, Safari and IE10+).  For the best performance, we recommend using <a href="https://www.google.com/chrome/browser/desktop/">Chrome</a>.  Please <a href="https://github.com/ModelSEED/ModelSEED-UI/issues">submit an issue</a> or <a href="mailto:nconrad@anl.gov">email</a> us if you encounter any issues.
 
 
-##### What methods are used for reconstruction, gapfilling, FBA?
+##### What has been upgraded?
 
-Behind the scenes, all methods and algorithms used in the new ModelSEED should produce the same results as the original ModelSEED.  However, you'll notice better performance, more options, and flexibility.  Read more in the paper <a href="http://www.nature.com/nbt/journal/v28/n9/full/nbt.1672.html">here</a>.
+1) The new ModelSEED biomass works differently in that biomass equations are constant for the gram positive and gram negative templates.
+2) The mappings of roles to reactions has changed, as have the roles annotated by SEED itself
+3) The ModelSEED utilizes a new biochemistry.  Please see the [ModelSEEDDatabase](https://github.com/ModelSEED/ProbModelSEED) for the latest biochemistry. [More documentation coming]
+4) The gapfilling algorithm has changed in that the alorithmn is now a LP (Linear Program), instead of MILP (Mixed Integer Linear Program).  This allows for "fast" formulation.  Although it is possible to have a different solutions, this is uncommon.
+
 
 
