@@ -2,7 +2,7 @@
 
 ##### What is the ModelSEED?
 
-ModelSEED is a free, open-source web application for the reconstruction, exploration, comparison, and analysis of metabolic models.  The UI is built primarily on the web service (<a href="https://github.com/ModelSEED/ProbModelSEED" target="_blank">ModelSEED-Pro</a>).  Users can acess the services by creating or using their current <a href="http://rast.nmpdr.org/" target="_blank">RAST</a> or <a href="https://www.patricbrc.org/portal/portal/patric/Home">PATRIC</a> accounts.
+ModelSEED is a free, open-source web application for the reconstruction, exploration, comparison, and analysis of metabolic models.  The UI is built primarily on the web service <a href="https://github.com/ModelSEED/ProbModelSEED" target="_blank">ModelSEED-Pro</a>.  Users can acess the services by creating or using their current <a href="http://rast.nmpdr.org/" target="_blank">RAST</a> or <a href="https://www.patricbrc.org/portal/portal/patric/Home">PATRIC</a> accounts.
 
 
 ##### Which browsers are supported?
