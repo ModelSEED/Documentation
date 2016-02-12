@@ -34,6 +34,9 @@ Addtionally, you'll notice better performance, more options, and flexibility.
 4. Heatmap tools are being created for the comparison of models and FBA simulation results.
 
 
+##### Hey, that logo is pretty neat, who designed it? 
+
+The new ModelSEED logo was created by Russell Lord, a Chicago based designer.  You can browse more of his work <a href="http://optionl.net/">here</a>.
 
 
 
